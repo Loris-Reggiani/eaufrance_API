@@ -83,7 +83,7 @@ function getTemperature(numero, name, index, sizeMax){
 }
 
   return (
-      <div className="App-header">
+      <div>
 
         <p className="title">Bar Char find temperature with station api</p>
 
